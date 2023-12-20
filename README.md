@@ -18,7 +18,7 @@ Apasionado por la programación y las competiciones de algoritmos, busco constan
 
 - GitHub: [Perfil de Github](https://github.com/Alex553-bot)
 - LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/alex-alvarez-882543249/)
-- Codeforces: [Perfil en Codeforces](https://www.codeforces.com/profile/alexalvarez123)
+- Codeforces: [Perfil en Codeforces](https://codeforces.com/profile/alexalvarez123)
 - Correo Electrónico: [alvarez.rojas.alexander.james5@gmail.com](mailto:alvarez.rojas.alexander.james5@gmail.com)
 
 ¡Espero con interés conectar contigo y explorar nuevas posibilidades juntos! 🌐
